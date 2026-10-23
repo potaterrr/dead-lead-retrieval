@@ -1,4 +1,4 @@
-# Dead Lead Follow-up
+# Dead Lead Retrieval
 
 > An AI-powered, human-in-the-loop automation that resurrects dormant leads:
 > it drafts personalized follow-up emails with an LLM and files them in Gmail,
@@ -18,7 +18,7 @@ Dormant leads rarely die because someone said "no" — they die because nobody
 followed up. Manual follow-up is slow, inconsistent, and easy to deprioritize,
 while fully automated outreach feels robotic and burns relationships.
 
-**Dead Lead Follow-up** takes the middle path:
+**Dead Lead Retrieval** takes the middle path:
 
 1. Every morning it scans a ClickUp list for leads still marked **TO DO**
 2. An LLM writes a short, warm, personalized check-in email for each one
